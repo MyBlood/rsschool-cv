@@ -6,7 +6,7 @@
 
 ## Contacts
 
-**Location:** Nizhniy Novgorod
+**Location:** Murom
 
 **Phone:** +7 904 036 98 56
 
