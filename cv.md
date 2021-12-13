@@ -2,9 +2,9 @@
 
 # Alexandr Vasilyev
 
-## Intern Front End Developer(#Intern-Front-End-Developer)
+## [Intern Front End Developer](#Intern-Front-End-Developer)
 
-### Contacts
+## [Contacts](#Contacts)
 
 **Location:** Nizhniy Novgorod
 
@@ -14,7 +14,7 @@
 
 **Telegram:** [@LoweBowe](https://t.me/LoweBowe)
 
-## [About Me](#About-Me)
+## [About Me](#About Me)
 
 I have an inquisitive enough mind, I'm sure I'll be useful to you.
 
