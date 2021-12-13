@@ -4,7 +4,7 @@
 
 ## Intern Front End Developer(#Intern-Front-End-Developer)
 
-### [Contacts](#Contacts)
+### Contacts(#Contacts)
 
 **Location:** Nizhniy Novgorod
 
