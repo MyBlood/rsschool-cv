@@ -2,6 +2,33 @@
 
 # Alexandr Vasilyev
 
-## [Intern Front End Developer] [#Intern Front End Developer]
+## Intern Front End Developer
 
+### Contacts
+
+**Location:** Nizhniy Novgorod
+
+**Phone:** +7 904 036 98 56
+
+**Email:** amney@yandex.ru
+
+**Telegram:** [@LoweBowe](https://t.me/LoweBowe)
+
+## About Me
+
+I have an inquisitive enough mind, I'm sure I'll be useful to you.
+
+## Skills
+
+- GIT
+- HTML
+- CSS
+
+## Education
+
+[FreeCodeCamp](https://freecodecamp.org)
+
+[CodeCademy](codecademy.com)
+
+[RS.SCHOOL](https://rs.school)
 
