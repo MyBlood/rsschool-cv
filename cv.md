@@ -32,3 +32,10 @@ I have an inquisitive enough mind, I'm sure I'll be useful to you.
 
 [RS.SCHOOL](https://rs.school)
 
+## Languages
+
+**Russian** - native
+
+**English** - begin
+
+
