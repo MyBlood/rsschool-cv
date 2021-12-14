@@ -6,7 +6,7 @@
 
 ## Contacts
 
-**Location:** Murom
+**Location:** [Murom](https://wikiway.com/russia/murom/)
 
 **Phone:** +7 904 036 98 56
 
