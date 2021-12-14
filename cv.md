@@ -6,7 +6,7 @@
 
 ## Contacts
 
-**Location:** [Murom](https://en.wikipedia.org/wiki/Murom) [Муром](https://wikiway.com/russia/murom/)
+**Location:** [Murom](https://en.wikipedia.org/wiki/Murom) | [Муром](https://wikiway.com/russia/murom/)
 
 **Phone:** +7 904 036 98 56
 
