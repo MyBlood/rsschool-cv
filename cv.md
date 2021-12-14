@@ -8,11 +8,11 @@
 
 **Location:** [Murom](https://en.wikipedia.org/wiki/Murom) | [Муром](https://wikiway.com/russia/murom/)
 
-**Phone:** +7 904 036 98 56
+**Phone:** | +7 904 036 98 56
 
-**Email:** amney@yandex.ru
+**Email:** | amney@yandex.ru
 
-**Telegram:** [@LoweBowe](https://t.me/LoweBowe)
+**Telegram:** | [@LoweBowe](https://t.me/LoweBowe)
 
 ## About Me
 
