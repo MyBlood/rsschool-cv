@@ -28,7 +28,7 @@ I have an inquisitive enough mind, I'm sure I'll be useful to you.
 
 [FreeCodeCamp](https://freecodecamp.org)
 
-[CodeCademy](codecademy.com)
+[CodeCademy](https://codecademy.com)
 
 [RS.SCHOOL](https://rs.school)
 
